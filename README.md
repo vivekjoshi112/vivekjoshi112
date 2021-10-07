@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on python development for Algorithmic Trading
 - 📫 How to reach me: vj2239@ece.jgec.ac.in
 - 😄 Pronouns: Tambola
-- ⚡ Fun fact: I do not possess Indian passport. 
+- ⚡ Fun fact: I do possess Indian passport. 
