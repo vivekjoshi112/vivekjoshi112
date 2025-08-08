@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Vivek Joshi**, a passionate coder and an algorithmic trading enthusiast. I focus on building **scalable, high-performance applications** and creating seamless **web experiences**. When I’m not coding, you can find me brainstorming strategies for financial markets or challenging someone to a **tennis or badminton match** (don't get me started on the **Hamilton vs Verstappen** debate! 😄).
+I'm **Vivek Joshi**, a passionate coder and an algorithmic trading enthusiast. I focus on building **scalable, high-performance applications** and creating seamless **web experiences**. When I’m not coding, you can find me brainstorming strategies for financial markets or challenging someone to a **tennis match** (don't get me started on the **Hamilton vs Verstappen** debate! 😄).
 
 ---
 
